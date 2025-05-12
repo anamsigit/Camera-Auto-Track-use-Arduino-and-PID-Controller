@@ -6,6 +6,7 @@ Tracking an object by servos, opencv implemented to PID controller with a distan
 ser = serial.Serial('COM9', 9600)  # Change the COM port to the one you use for Arduino
 ```
 ### Make sure Python and Arduino can communicate properly; you can use serialcommunication.py for a quick check
+Please use the up-to-date camera.py version, marked by the following number in the last name file.
 
 
 Software include:
